@@ -1,9 +1,3 @@
-¡Perfecto, Andy! Hacer un perfil tipo CV en tu `README.md` de GitHub es una excelente forma de mostrar tu perfil técnico, especialmente si apuntas a áreas como análisis cuantitativo, econometría aplicada o machine learning.
-
-Te armo una estructura bien pensada, con un enfoque claro, conciso y profesional, adaptado a tu nivel actual y tus intereses. Puedes copiar y pegarlo directamente en tu `README.md` (te paso también con los íconos de Markdown si gustas).
-
----
-
 ### 👨‍💻 Andy Huamantalla — Economista & Data Science Enthusiast
 
 _Egresado en Economía Internacional (UNMSM) con formación complementaria en Ciencia de Datos y pasión por la econometría, el análisis cuantitativo y el aprendizaje automático. Interesado en aplicar métodos estadísticos y computacionales para abordar problemas económicos y financieros._
