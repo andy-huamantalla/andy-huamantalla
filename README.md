@@ -65,5 +65,5 @@ Cursos relevantes: Econometría I, II y III · Análisis Financiero · Matemáti
 - 🌍 [LinkedIn](https://www.linkedin.com/in/andy-huamantalla/)  
 - 🏢 [Credly (insignias)](https://www.credly.com/users/andy-huamantalla)  
 - 💻 [GitHub](https://github.com/andy-huamantalla)
-- 🌍 [Coursera](https://coursera.org/share/9aeb85a1db1a6b178810c61db0b6f73e)
+- 🌍 [Coursera](https://www.coursera.org/user/61292b9de47ce22bf8a4e211f2d94f97)
 ---
