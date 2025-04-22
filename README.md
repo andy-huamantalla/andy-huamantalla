@@ -24,8 +24,9 @@ Cursos relevantes: Econometría I, II y III · Análisis Financiero · Matemáti
 ### 🧾 Certificaciones
 
 **IBM Data Science Professional Certificate – Coursera (2024)**  
-📍 Badge: [Ver insignia en Credly](https://www.credly.com/users/andy-huamantalla)  
-10 cursos completados, incluyendo:
+📍 Badge: [Ver insignia en Credly](https://www.credly.com/users/andy-huamantalla)
+📍 Coursera: [Ver certificado en Coursera](https://coursera.org/share/9aeb85a1db1a6b178810c61db0b6f73e)
+12 cursos completados, incluyendo:
 - Python for Data Science  
 - Data Visualization & Analysis  
 - SQL for Data Science  
@@ -36,13 +37,13 @@ Cursos relevantes: Econometría I, II y III · Análisis Financiero · Matemáti
 
 ### 💼 Experiencia
 
+**Auxiliar de Operaciones — Caja Rural Raíz (jun–ago 2024)**  
+- Digitalización y registro de expedientes financieros para Reactiva Perú  
+- Manejo de base de datos y procesos relacionados a COFIDE
+
 **Investigador Colaborador — UNMSM (abr–may 2024)**  
 - Apoyo en investigación académica en economía y sostenibilidad  
 - Redacción de documentos técnicos y uso de herramientas cuantitativas
-
-**Auxiliar de Operaciones — Caja Rural Raíz (jun–ago 2014)**  
-- Digitalización y registro de expedientes financieros para Reactiva Perú  
-- Manejo de base de datos y procesos relacionados a COFIDE
 
 ---
 
