@@ -26,6 +26,7 @@ Cursos relevantes: Econometría I, II y III · Análisis Financiero · Matemáti
 **IBM Data Science Professional Certificate – Coursera (2024)**  
 📍 Badge: [Ver insignia en Credly](https://www.credly.com/users/andy-huamantalla)
 📍 Coursera: [Ver certificado en Coursera](https://coursera.org/share/9aeb85a1db1a6b178810c61db0b6f73e)
+
 12 cursos completados, incluyendo:
 - Python for Data Science  
 - Data Visualization & Analysis  
@@ -49,9 +50,12 @@ Cursos relevantes: Econometría I, II y III · Análisis Financiero · Matemáti
 
 ### 🛠️ Habilidades Técnicas
 
-| Lenguajes      | Python (pandas, numpy, matplotlib, scikit-learn) · R (tidyverse, lm) · SQL |
-| Herramientas   | Git · GitHub · Excel (tablas dinámicas, macros) · STATA                   |
-| Conocimientos  | Econometría aplicada · Machine Learning (clasificación supervisada) · Visualización de datos · Metodología de investigación cuantitativa y cualitativa |
+|              |                                                                                                                  |
+|--------------|------------------------------------------------------------------------------------------------------------------|
+| **Lenguajes y Software** | Python (Pandas, NumPy, Scikit-Learn, Statsmodels, Matplotlib, Plotly), SQL, Excel, Git y GitHub.<br>Básico: R, Stata, Power BI. |
+| **Conocimientos Técnicos** | Econometría aplicada, Regresión lineal y logística, Modelos ARIMA, Series de tiempo, Clasificación supervisada (Tree, KNN, SVM), Visualización de datos y Minería de datos.<br>Redacción académica, Metodología de investigación y Trabajo colaborativo. |
+| **Idiomas** | Inglés básico-intermedio (lectura técnica). |
+
 
 ---
 
@@ -60,6 +64,6 @@ Cursos relevantes: Econometría I, II y III · Análisis Financiero · Matemáti
 - 📧 andy.huamantalla@gmail.com  
 - 🌍 [LinkedIn](https://www.linkedin.com/in/andy-huamantalla/)  
 - 🏢 [Credly (insignias)](https://www.credly.com/users/andy-huamantalla)  
-- 💻 [GitHub](https://github.com/andy-huamantalla) ← aquí iría tu perfil una vez esté listo
-
+- 💻 [GitHub](https://github.com/andy-huamantalla)
+- 🌍 [Coursera](https://coursera.org/share/9aeb85a1db1a6b178810c61db0b6f73e)
 ---
