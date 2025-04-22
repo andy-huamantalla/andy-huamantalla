@@ -50,7 +50,6 @@ Cursos relevantes: Econometría I, II y III · Análisis Financiero · Matemáti
 ### 🛠️ Habilidades Técnicas
 
 | Lenguajes      | Python (pandas, numpy, matplotlib, scikit-learn) · R (tidyverse, lm) · SQL |
-|----------------|----------------------------------------------------------------------------|
 | Herramientas   | Git · GitHub · Excel (tablas dinámicas, macros) · STATA                   |
 | Conocimientos  | Econometría aplicada · Machine Learning (clasificación supervisada) · Visualización de datos · Metodología de investigación cuantitativa y cualitativa |
 
